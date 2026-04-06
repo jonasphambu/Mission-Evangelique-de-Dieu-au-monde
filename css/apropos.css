@@ -528,7 +528,7 @@
 
         /* Footer */
         footer {
-            background-color: var(--dark-color);
+            background-color:var(--dark-color);
             color: white;
             padding: 3rem 0 1rem;
             opacity: 0;
@@ -553,6 +553,7 @@
             margin-bottom: 1.5rem;
             position: relative;
             display: inline-block;
+            color: var(--accent-color);
         }
 
         .footer-column h3::after {
@@ -645,7 +646,7 @@
                 right: -100%;
                 width: 70%;
                 height: 100vh;
-                 background-color: rgba(255, 255, 255, 0.829);
+                 background-color: rgba(255, 255, 255, 0.986);
                 backdrop-filter: blur(4px);
                 flex-direction: column;
                 justify-content: center;

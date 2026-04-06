@@ -1019,7 +1019,7 @@ span{
                 right: -100%;
                 width: 70%;
                 height: 100vh;
-                background-color: rgba(207, 204, 204, 0.712);
+                background-color: rgba(207, 204, 204, 0.945);
                 backdrop-filter: blur(4px);
                 flex-direction: column;
                 justify-content: center;
